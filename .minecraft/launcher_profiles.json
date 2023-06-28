@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "1.18.2": {
+      "name": "1.18.2",
+      "lastVersionId": "1.18.2",
+      "gameDir": "C:\\Users\\naepi\\AppData\\Roaming\\Crystal-Launcher\\instances\\of_1.18.2\\.minecraft"
+    }
+  },
+  "selectedProfile": "1.18.2"
+}
